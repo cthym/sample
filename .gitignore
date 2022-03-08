@@ -19,3 +19,4 @@ amplify
 node_modules
 .expo/*
 aws-exports.js
+-----------
